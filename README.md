@@ -55,7 +55,7 @@ Companies choose Contentful to gain a competitive advantage. The new standard in
 
 
 
-for 
+ 
 ---
 + [edit](https://github.com/jbodys/www/edit/main/README.md)
 
